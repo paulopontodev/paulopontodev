@@ -7,7 +7,7 @@ Me chamo Paulo Queiroz, tenho 23 anos e sou natural do Rio de Janeiro. Atualment
 
 #
 
-<img align="right" alt="" height="190px" border-radious="10px" src="./src/paulopontodev.gif">
+<img align="right" alt="" height="190px" border-radious="10px" src="./src/study.gif">
 
 <h3 align="left">Connect with me!</h3>
 
