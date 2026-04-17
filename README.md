@@ -11,7 +11,7 @@ meu canal no YouTube "[PauloDev](https://www.youtube.com/@paulopontodev)".
  
 #
 
-<img align="right" alt="" height="190px" border-radious="10px" src="./src/study.gif">
+<img align="right" alt="" height="190px" src="./src/study.gif">
 
 <h3 align="left">Connect with me!</h3>
 
