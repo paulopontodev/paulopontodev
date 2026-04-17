@@ -84,7 +84,7 @@ Me chamo Paulo Queiroz, tenho 23 anos e sou natural do Rio de Janeiro. Atualment
 <br/>
 <br/>
 
-<h3 align="left">Stats</h3>
+<h3 align="left">GitHub Stats</h3>
 
 <p>
   <img 
