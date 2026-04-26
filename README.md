@@ -93,7 +93,7 @@ meu canal no YouTube "[PauloDev](https://www.youtube.com/@paulopontodev)".
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-two-omega-43.vercel.app/api/?username=paulopontodev&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=86400&include_all_commits=true
+    src="https://github-readme-stats-two-omega-43.vercel.app/api/?username=paulopontodev&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&token="
   />
 
 <img 
